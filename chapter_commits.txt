@@ -1,0 +1,437 @@
+commit bf688ec1892dfe451558f5245ec9f47542b66480
+Author: Matt Clapp <itsayellow+dev@gmail.com>
+Date:   Sun Oct 15 16:19:48 2017 -0700
+
+    unquoting remaining Net and Mackerel pub names
+
+commit ed424740ff71286091e2470f7eab0576fba8202b
+Author: Matt Clapp <itsayellow-dev@gmail.com>
+Date:   Fri Oct 13 11:23:58 2017 -0700
+
+    fixing Great Scot to Great Scott
+
+commit ce44c0d7ca23471b29dc7bd1b7874f7a6ec75802
+Author: Matt Clapp <itsayellow-dev@gmail.com>
+Date:   Fri Oct 13 10:48:27 2017 -0700
+
+    reverted to source absence of comma
+
+commit 709a49499e699eed5f303aa706aafdc265c81616
+Author: Matt Clapp <itsayellow-dev@gmail.com>
+Date:   Wed Oct 11 12:13:01 2017 -0700
+
+    de-capitalizing Laddie
+
+commit 8b63b902813e06b22473d40fc8d0059c6122fe5d
+Author: Matt Clapp <itsayellow-dev@gmail.com>
+Date:   Wed Oct 11 11:17:20 2017 -0700
+
+    changed unbiassed to unbiased
+
+commit b69376bd3d23228cfca0e6db2082208aedd4fb64
+Author: Matt Clapp <itsayellow-dev@gmail.com>
+Date:   Wed Oct 11 11:16:42 2017 -0700
+
+    changed golf-bag to golf bag and golf-clubs to golf clubs
+
+commit 412c17b25c375b3611c5720919540dbf3aae6972
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Tue Aug 15 23:38:43 2017 -0700
+
+    chp23: correcting to match source
+
+commit 011a1a065b4d42dedffbc42918e57b32249100b9
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Tue Aug 15 23:03:06 2017 -0700
+
+    chp22: correcting to match source
+
+commit 9dc52ccbc6196800a7ae9486cd57ebfd5b4c1f8c
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Tue Aug 15 21:10:41 2017 -0700
+
+    chp21: correcting to match source
+
+commit 6a0d1524c84533b4f45ea951bcbc7b8361ef7d7f
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Tue Aug 15 00:13:34 2017 -0700
+
+    chp20: correcting to match source
+
+commit 365e34f0f93d523e8e5d8b19cb7c0cb077c095ed
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Mon Aug 14 22:40:50 2017 -0700
+
+    chp19: correcting to match source
+
+commit 36eba38224d5f7ca13bc6d6b63c895527c628110
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Mon Aug 14 21:59:17 2017 -0700
+
+    chp18: correct to match source
+
+commit 1369c2dde11893d5f73fbdc29e35828a52280e63
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Mon Aug 14 21:01:46 2017 -0700
+
+    chp17: correcting to match source
+
+commit 35d0436fde182092995a40438f8017bb98f3b2c3
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Mon Aug 14 12:10:20 2017 -0700
+
+    clean
+
+commit 6e2f5239dc557723dec54eec6b75842b9aae188d
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Mon Aug 14 12:09:10 2017 -0700
+
+    chp16: correcting to match source
+
+commit b92d92b5266daaf1ce579de7627e4f882ad25d3a
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Mon Aug 14 11:23:42 2017 -0700
+
+    chp15: correcting to match source
+
+commit 29e446800cbca18237f3c73675e4dc34b5d03148
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Mon Aug 14 00:35:04 2017 -0700
+
+    chp14:correcting to match source
+
+commit fcd5d7285f0ee061e299a3da23f810257043a2de
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Sun Aug 13 23:29:41 2017 -0700
+
+    chp13: correcting to match source
+
+commit 37c64bd4aad59bffe960cb12a85ba48bb4d9be8c
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Sun Aug 13 22:44:18 2017 -0700
+
+    chp12: correcting to match source
+
+commit 816baff9a151833a647a6332d6cf33405e393f1f
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Sun Aug 6 23:35:04 2017 -0700
+
+    clean
+
+commit fc0acfa13cad2dce569769552b1f0a7eb4258369
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Sun Aug 6 23:33:52 2017 -0700
+
+    chp11:fixing to match source
+
+commit f384484028bc6c50aea3220bb2327857cbe2390f
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Sun Aug 6 21:27:10 2017 -0700
+
+    chp10:Fixing to match source.
+
+commit fd5cb4c9a96a31758ebdd871b21991b8f749e432
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Sun Aug 6 13:49:33 2017 -0700
+
+    fixing apostrophes to curl the correct way
+
+commit 664ab05fbd22b87a8847e05ad2d2196e214eee02
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Sat Aug 5 18:45:57 2017 -0700
+
+    chp9: editing to match source
+
+commit 400af6699f74d44c571accf5d374dcf4c4922b76
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Fri Aug 4 23:27:34 2017 -0700
+
+    chp8: lots of punctuation, some words fixing to match source
+
+commit 86e93b7f77448c1c91811a3327b8417d3df9ede3
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Mon Jul 24 22:14:19 2017 -0700
+
+    correcting to match source scans
+
+commit 1a0f1fd78f33bd8ef7f0181f5cd8c5625939556b
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Mon Jul 24 21:36:35 2017 -0700
+
+    correcting to match source scans
+
+commit 9f48bcf67ff039df16c07a8ea9c0b022b932bc4b
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Mon Jul 17 00:54:33 2017 -0700
+
+    correcting to match source scans
+
+commit fba58c9f2198857080762c750917941220b7410f
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Sun Jul 16 23:51:14 2017 -0700
+
+    correcting to match source scans
+
+commit 1d5b18264459284b755da3c51f550c2c0a73021a
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Sun Jul 16 16:45:24 2017 -0700
+
+    correcting to match source scans
+
+commit 9cbfd23a17ebebc955695993d576110a78ddb954
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Sun Jul 16 15:53:38 2017 -0700
+
+    correcting to match source scans
+
+commit 07978b0d649fb0e9af468d4b2f25315a68b337b6
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Sat Jul 15 23:13:26 2017 -0700
+
+    correcting to match source scans
+
+commit d2265e9dd52eeae19015310f56501535741e4814
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Sat Jul 15 22:43:10 2017 -0700
+
+    fixing to match source scans
+
+commit 8ef3ab2cf5403a8f369e9b78c7bd4fcf244bd5f8
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Sat Jul 15 22:25:40 2017 -0700
+
+    fixing punctuation to match source
+
+commit f298e25047b874a9f363788f281d8c812e121145
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Sat Jul 15 21:57:50 2017 -0700
+
+    fixing boxingplaybyplay problem in build
+
+commit 49860e3ce530e533ec3dcd2fccab858f3481985a
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 20:49:04 2017 -0700
+
+    clean
+
+commit edf06a588be9b6e8b9d13408a42a6673abf46d44
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 19:16:34 2017 -0700
+
+    reverting to original text
+
+commit 471f2cd28831531d7b7f4cdd47eece04616cc6e4
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 19:15:41 2017 -0700
+
+    paren period because paren is an editorial aside
+
+commit d74665a4918d60e4cb24215e465afbef2146f85c
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 18:57:27 2017 -0700
+
+    fixing letter salutation and signature
+
+commit d7e3d9311b10e8005f4c0a32f9c467bcd7ee5d0b
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 18:51:07 2017 -0700
+
+    fixing currency specification
+
+commit 181295d46564ba6f1a99d5afdd4451364342b4d5
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 18:32:48 2017 -0700
+
+    fixing typo Priscilla
+
+commit 73296feb6d7ea8a80e7b64eb86e5e6860406b44a
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 18:28:43 2017 -0700
+
+    adding ligature for ae in Dies Irae
+
+commit d9a5c52cbe6f816841f61a3241c7edbb1373a34f
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 18:26:36 2017 -0700
+
+    removing THE END
+
+commit 35fce06a1259a26587aa7ab31744380b6964465c
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 12:08:44 2017 -0700
+
+    [Editorial] for ever -> forever
+
+commit cb220738e2b3045cc1f93959344b407dfa971a60
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 12:07:32 2017 -0700
+
+    [Editorial] every one -> everyone
+
+commit b53f95865f9aa5fb14276cc0e4696809d3098719
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 12:06:53 2017 -0700
+
+    [Editorial] any one -> anyone
+
+commit a58075094b786b4ac9c40e71edb6cfb70ca42e6f
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 12:06:20 2017 -0700
+
+    [Editorial] some one -> someone
+
+commit 9fc395cfbd7da2b8afb980d242ed5ac30e877db6
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 01:52:08 2017 -0700
+
+    adding ligature back for Manoeuvres of Arthur because funny
+
+commit 6cd9dc78c0c9db520a4d6e246664fbc848d20a49
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 01:43:25 2017 -0700
+
+    common sense as a noun has a space
+
+commit 062f66ee7c7aebeaaeb9e09a71910e94c3ad1e4a
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 01:42:06 2017 -0700
+
+    removing erroneous capitalization
+
+commit 1983f0f7c0fe36789c9067201b165feb42e7c38e
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 01:40:40 2017 -0700
+
+    putting back a propos because it is french, not english
+
+commit 11a38ab957b50b417106bf603cd5bb8618f00b9a
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jul 6 01:39:49 2017 -0700
+
+    [Editorial] Modernize hyphenation and spelling
+
+commit 21e61bf84fd8f69a1fe2e09ab27e97bbe32f6a2f
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Tue Jul 4 23:57:14 2017 -0700
+
+    [Editorial] fix for em-dash on quote
+
+commit 685b7de352ddf1efa8d6f05cc12351cbc7c9ce3e
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Tue Jul 4 17:36:52 2017 -0700
+
+    semanticating books and sculpture
+
+commit 3f770beb772035e262330038adf55e01edc020c2
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Tue Jul 4 17:28:57 2017 -0700
+
+    running clean
+
+commit 2fa9d46f04fc591517eefce420d44c64e462dbc0
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Tue Jul 4 17:20:49 2017 -0700
+
+    running semanticate, manually: Celestial BC is not date
+
+commit 77633b208510d782e9c09e841e4d97b4831837ff
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Tue Jul 4 16:13:40 2017 -0700
+
+    adding newspaper semantics
+
+commit ebe0b02bd8e49cffc6f078973f980de83cdac89f
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Tue Jul 4 15:39:48 2017 -0700
+
+    adding rest of foreign lang <i> in Merr-Webster but obscure
+
+commit ce4cd9c01a134afae3d300eca4a6a765d49c3659
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Tue Jul 4 12:37:53 2017 -0700
+
+    adding xml:lang to all <i> not in websters, mdash spaces fixes
+
+commit da31f998496a44c4f3037d7550deafaf6698c40b
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Tue Jul 4 00:25:25 2017 -0700
+
+    ligature in Manoeuvres of Arthur because it's more ridiculous and funny
+
+commit 41233c95778e7f394ef6c4ec8ed929fa11123c56
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Tue Jul 4 00:20:44 2017 -0700
+
+    adding abbr tag to o.s.
+
+commit a9c62a251d03aa5178e334c7b036867bcd0a3de1
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Mon Jul 3 23:59:21 2017 -0700
+
+    changing yelled word to <strong>
+
+commit 906b3b9d8de880dc9859a60e0f3e09fd2f0a79da
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Mon Jul 3 23:57:09 2017 -0700
+
+    changing yell to <strong>
+
+commit 6b40ea4e0c97d2aab6ecb4aab9c004c37f619b82
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Mon Jul 3 23:55:30 2017 -0700
+
+    adding fromprint class for some all-caps words
+
+commit 7fcd88498b9730fb3674d8b70b83408f250c4e28
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Mon Jul 3 23:24:03 2017 -0700
+
+    formatting boxing play-by-play unlike reg para
+
+commit 72b8a2400d0247ed0aafb92060c2aa126f41997e
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Fri Jun 30 18:23:10 2017 -0700
+
+    acronym fixing
+
+commit 11661582e5e2f0c7616a7bf54cbcb90173af343a
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Fri Jun 30 16:20:06 2017 -0700
+
+    some spelling fixes
+
+commit b8ada5084861426cd78258843f18eb593eab9e0e
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Fri Jun 30 15:23:52 2017 -0700
+
+    abbrev tags to name initials, clean
+
+commit 6d813c31c061d43176d74e6a43a3589696ef2e75
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Fri Jun 30 13:06:48 2017 -0700
+
+    clean on this file
+
+commit 76a35f8e223304f85076bb69871910b87b294089
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jun 29 23:51:49 2017 -0700
+
+    fixing spaceing around ellipses
+
+commit 3cbd0ef3a7339e62159e58aec48651c4ab592e60
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jun 29 23:06:53 2017 -0700
+
+    italicizing book titles
+
+commit 370242c3b33555bae8122cc683e27286fa34652f
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jun 29 22:17:19 2017 -0700
+
+    fixing conversation interrupts to be single em-dash
+
+commit 016d9ebd331b78a071b15a89381990be5d8c974b
+Author: Matt Clapp <itsayellow@gmail.com>
+Date:   Thu Jun 29 21:40:51 2017 -0700
+
+    omitting "CHAPTER" as per semantics manual, fix letter markup
