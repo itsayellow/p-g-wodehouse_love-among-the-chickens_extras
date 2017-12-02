@@ -1,0 +1,63 @@
+* I changed from source
+
+AMBIGUOUS SOURCE, OR I CHANGED FROM SOURCE but may not have [Editorial] in git
+---------------------
+
+Chapter 5
+    * Page 47: Source scan is unclear, but I believe there is the comma as I
+        put it in:
+        "streaming into my bedroom through the open window, woke me"
+    * Page 60: "onto a good thing" in source
+        I corrected to "on to a good thing" 
+
+Chapter 7
+    * Page 73 "unbiassed" - changed to "unbiased"
+
+Chapter 8
+    * Page 83: Changed comma to period at end of:
+        "We was talking there, ma'am, when Bob, what had followed me unknown,
+        trotted in."
+
+Chapter 10
+    * Page 106: changed: "Not really a Coward" to "Not Really a Coward"
+    * Page 109: "Net and Mackerel" was quoted in source, but not quoting here
+
+Chapter 11
+    * Page 114: "decided against such a course" - source has "such a source"
+        but this makes no sense, so I'm keeping it corrected as gutenberg had
+        it
+    * Page 120: "Why do I miss these goods things?" in source
+        corrected to "good things?"
+
+Chapter 12
+    * Page 130:
+        revamped quotes and mdashes on "I have just got <i>The Outsider</i>"
+
+Chapter 14
+    * Page 144 changed "desolute" to "desolate" because I can't find the word
+        "desolute"
+
+Chapter 16
+    * Page 171: "I punched Tom Leigh" doesn't start new paragraph in source,
+        but I changed it because it starts new double-quote and seems to
+        need to.
+    * Page 173: hard to tell but I believe
+        "and Harrod's jumpy, or that the bearings" actually does have a
+        comma in the source
+
+Chapter 20
+    * Page 216: "not be drear and blank; that a more judicious"
+        is colon in source, but doesn't make sense so I changed it to semicolon
+    * Page 221: "Me dear boy,--" in source mdash is outside of quotes, but I
+        corrected it.
+
+Chapter 22
+    * Page 240: "Great Scott", in source it is "Great Scot"
+        (in chapter 13 source has correctly "Great Scott")
+
+Chapter 23
+    * Page 249: changed : to ;
+        "She mentioned the figure that would clear us; I patted the dog."
+
+
+vim: textwidth=79
