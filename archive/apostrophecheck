@@ -22,8 +22,8 @@ def process_command_line(argv):
     # initialize the parser object:
     parser = argparse.ArgumentParser(
             description="Find all occurrences of left curly single-quote in a "
-            "text file and display them, to check if they are supposed to be "
-            "apostrophes but curled in the wrong direction.")
+            "text file(s) and display them, to check if they are supposed to "
+            "be apostrophes but curled in the wrong direction.")
 
     # specifying nargs= puts outputs of parser in list (even if nargs=1)
 
@@ -35,7 +35,8 @@ def process_command_line(argv):
     # switches/options:
     parser.add_argument(
         '-c', '--context_chars', action='store', default=16,
-        help='Number of characters before and after curly-quote match.  '
+        help='Number of characters before and after curly-quote match. '
+        '(default 16)'
         )
 
     #parser.add_argument(
